@@ -5,7 +5,13 @@
 - Network Security 
 - Digital Forensics & Incident Response  
 - SIEM & Log Analysis  
-- Threat Hunting 
+- Threat Hunting
+
+<div align="center">
+
+--- 🔷 🔷 🔷  End of Section  🔷 🔷 🔷 ---
+
+</div>
 
 #### What I’m Currently Working On
 
