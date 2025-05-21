@@ -7,8 +7,6 @@
 - SIEM & Log Analysis  
 - Threat Hunting 
 
-_____________________________________________________________________________________________
-
 #### What I’m Currently Working On
 
 - Building a comprehensive cybersecurity portfolio with projects in system security, threat hunting, and digital forensics  
@@ -16,15 +14,12 @@ ________________________________________________________________________________
 - Strengthening SIEM expertise
 - Continuously growing through platforms like TryHackMe and hands-on lab environments
 
-·································································································································
-
+..........................................................................................................................................
 
 ### 📁 Featured Portfolio
 
 Check out my full cybersecurity portfolio and final projects:  
 👉 [Cybersecurity-Learning-Journey](https://github.com/RaghaviPreeti/Cybersecurity-Learning-Journey)
-
-··········································································································································
 
 ### 🛠 Tools & Platforms
 
