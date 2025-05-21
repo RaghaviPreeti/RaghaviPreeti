@@ -9,7 +9,7 @@
 
 <div align="center">
 
--------- [Section Break] --------
+----- [ Section Break ] -----
 
 </div>
 
@@ -20,24 +20,44 @@
 - Strengthening SIEM expertise
 - Continuously growing through platforms like TryHackMe and hands-on lab environments
 
-..........................................................................................................................................
+<div align="center">
+
+----- [ Section Break ] -----
+
+</div>
 
 ### 📁 Featured Portfolio
 
 Check out my full cybersecurity portfolio and final projects:  
 👉 [Cybersecurity-Learning-Journey](https://github.com/RaghaviPreeti/Cybersecurity-Learning-Journey)
 
+<div align="center">
+
+----- [ Section Break ] -----
+
+</div>
+
 ### 🛠 Tools & Platforms
 
 `pfSense` `Wireshark` `Autopsy` `Splunk` `Ubuntu` 
 `TryHackMe` `Windows Server` `VMware` `Git & GitHub`
 
-··········································································································································
+<div align="center">
+
+----- [ Section Break ] -----
+
+</div>
 
 ### 📫 Connect with Me
 
 📧 raghavipreetia@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/raghavi-preeti-ayyathurai-jaya-822280190)
 
+<div align="center">
+
 --- 🔹🔹🔹 End of Section 🔹🔹🔹 ---
+
+</div>
+
+
 
