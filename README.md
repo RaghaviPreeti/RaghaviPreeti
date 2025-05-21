@@ -35,7 +35,7 @@ Check out my full cybersecurity portfolio and final projects:
 ### 📫 Connect with Me
 
 📧 raghavipreetia@gmail.com  
-💼 [LinkedIn](www.linkedin.com/in/raghavi-preeti-ayyathurai-jaya-822280190)
+💼 [LinkedIn](https://www.linkedin.com/in/raghavi-preeti-ayyathurai-jaya-822280190)
 
 ---
 
