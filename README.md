@@ -7,7 +7,7 @@
 - SIEM & Log Analysis  
 - Threat Hunting 
 
-······························
+··········································································································································
 
 #### What I’m Currently Working On
 
@@ -16,21 +16,21 @@
 - Strengthening SIEM expertise
 - Continuously growing through platforms like TryHackMe and hands-on lab environments
 
---- 🔹🔹🔹 End of Section 🔹🔹🔹 ---
+··········································································································································
 
 ### 📁 Featured Portfolio
 
 Check out my full cybersecurity portfolio and final projects:  
 👉 [Cybersecurity-Learning-Journey](https://github.com/RaghaviPreeti/Cybersecurity-Learning-Journey)
 
---- 🔹🔹🔹 End of Section 🔹🔹🔹 ---
+··········································································································································
 
 ### 🛠 Tools & Platforms
 
 `pfSense` `Wireshark` `Autopsy` `Splunk` `Ubuntu` 
 `TryHackMe` `Windows Server` `VMware` `Git & GitHub`
 
---- 🔹🔹🔹 End of Section 🔹🔹🔹 ---
+··········································································································································
 
 ### 📫 Connect with Me
 
