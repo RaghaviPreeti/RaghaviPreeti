@@ -16,7 +16,7 @@
 - Strengthening SIEM expertise
 - Continuously growing through platforms like TryHackMe and hands-on lab environments
 
-··································································································································
+---------------------------------------------------------------------------------------------
 
 ### 📁 Featured Portfolio
 
