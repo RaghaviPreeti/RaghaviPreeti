@@ -9,7 +9,7 @@
 
 <div align="center">
 
--------- Section Break --------
+-------- [Section Break] --------
 
 </div>
 
