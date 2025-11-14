@@ -7,46 +7,20 @@
 - SIEM & Log Analysis  
 - Threat Hunting
 
-<div align="center">
-
------ [ Section Break ] -----
-
-</div>
-
 #### What I’m Currently Working On
 
-- Building a comprehensive cybersecurity portfolio with projects in system security, threat hunting, and digital forensics  
-- Exploring OSINT and reconnaissance techniques through practical labs and research  
-- Strengthening SIEM expertise
-- Continuously growing through platforms like TryHackMe and hands-on lab environments
-
-<div align="center">
-
------ [ Section Break ] -----
-
-</div>
+- Focused on developing a strong foundation in network security through Hack The Box’s Junior Cybersecurity Analyst path and CCNA preparation.
+- Gaining hands-on experience in packet analysis, network defense, and core networking concepts to build toward a career in cybersecurity operations.
 
 ### 📁 Featured Portfolio
 
 Check out my full cybersecurity portfolio and final projects:  
 👉 [Cybersecurity-Learning-Journey](https://github.com/RaghaviPreeti/Cybersecurity-Learning-Journey)
 
-<div align="center">
-
------ [ Section Break ] -----
-
-</div>
-
 ### 🛠 Tools & Platforms
 
 `pfSense` `Wireshark` `Autopsy` `Splunk` `Ubuntu` 
-`TryHackMe` `Windows Server` `VMware` `Git & GitHub`
-
-<div align="center">
-
------ [ Section Break ] -----
-
-</div>
+`TryHackMe` `Windows Server` `VMware` `Git & GitHub` `LaTex`
 
 ### 📫 Connect with Me
 
