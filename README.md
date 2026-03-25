@@ -9,8 +9,7 @@
 
 #### What I’m Currently Working On
 
-- Focused on developing a strong foundation in network security through Hack The Box’s Junior Cybersecurity Analyst path and CCNA preparation.
-- Gaining hands-on experience in packet analysis, network defense, and core networking concepts to build toward a career in cybersecurity operations.
+- Transitioning my core network security background into the AI Security domain. I am currently exploring the AI Security Path to master threat modeling for AI models, prompt injection defense, and securing data pipelines in automated environments.
 
 ### 📁 Featured Portfolio
 
